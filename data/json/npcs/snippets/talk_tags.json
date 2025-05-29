@@ -151,12 +151,13 @@
     "type": "snippet",
     "category": "<zombie>",
     "text": [
-      "living corpse",
-      "goo-puker",
-      "shambler",
+      "moving corpse",
+      "evil thing",
+      "moving body",
       "undead",
-      "walker",
+      "infected body",
       "walking corpse",
+      "infected corpse"
       { "text": { "ctxt": "<zombie>", "str": "Z" } },
       "zed",
       "zombie"
