@@ -21,29 +21,31 @@
     "type": "snippet",
     "category": "<danger_close_distance>",
     "//": "A threat is very close: '[It's a zombie east,] right on top of us!'",
-    "text": [ "right on top of us!", "right there!", "danger close!", "almost in melee range!", "too close for comfort!" ]
+    "text": [ "", "right here!", "right next to us!", "about to get here!", "" ]
   },
   {
     "type": "snippet",
     "category": "<close_distance>",
     "//": "A threat is close: '[It's a zombie east,] just a bit away.'",
-    "text": [ "within shooting range.", "only a couple of seconds' away.", "just a bit away.", "closer than I'd like." ]
+    "text": [ "", "", "", "", "closer than I'd like." ]
   },
   {
     "type": "snippet",
     "category": "<medium_distance>",
     "//": "A threat is nearby: '[It's a zombie east,] quite a bit away.'",
-    "text": [ "near enough to see us.", "quite a bit away.", "maybe within shooting range.", "at a good distance." ]
+    "text": [ ".", ".", ".", "" ]
   },
   {
     "type": "snippet",
     "category": "<far_distance>",
     "//": "A threat is on the horizon: '[It's a zombie east,] at a long distance.'",
     "text": [
-      "far enough away that we could make sneak away.",
-      "out on the horizon, so don't worry much.",
-      "at a long distance.",
-      "it's a million miles away!"
+      "way out in the distance",
+      "way, way over there",
+      "too far to see very well",
+      "very far away",
+      "really, really far away",
+      "about a million miles away"
     ]
   },
   {
@@ -113,55 +115,36 @@
     "category": "<name_g>",
     "//": "Friendly name pro-nouns and references",
     "text": [
-      "",
-      "",
-      "",
+      "boss",
       "bro",
+      "brother",
       "bud",
       "buddy",
       "dude",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
       "man",
       "my guy",
       "my man",
-      "",
-      "",
-      "pal",
-      "",
-      ""
+      "pal"
     ]
   },
   {
     "type": "snippet",
     "category": "<freaking>",
-    "//": "Adjective curse words used to emphasize unpleasant events: '[These] fucking [zombies].' or '[This] dumb [bitch].'",
+    "//": "Adjective curse words used to emphasize unpleasant events: '[These] fucking [zombies].' or '[This] dumb [asshole].'",
     "text": [
-      "cursed",
       "shitty",
-      "crappy",
-      "darn",
-      "moronic",
+      "stupid",
+      "annoying", 
+      "stupid fucking",
+      "busted",
       "miserable",
       "lame",
+      "ugly",
       "fucked-up",
+      "messed-up",
       "dumb",
-      "damn",
-      "freaking",
-      "fricking",
-      "fuckin'",
       "fucking",
-      "god damn",
-      "goddamn",
-      "god-forsaken",
-      "mafuckin'",
-      "motherfucking",
-      "wicked"
+      "god damn"
     ]
   },
   {
