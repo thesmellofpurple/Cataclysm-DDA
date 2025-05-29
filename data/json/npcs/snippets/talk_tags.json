@@ -21,7 +21,7 @@
     "type": "snippet",
     "category": "<danger_close_distance>",
     "//": "A threat is very close: '[It's a zombie east,] right on top of us!'",
-    "text": [ "", "right here!", "right next to us!", "about to get here!", "" ]
+    "text": [ "", "right here!", "right next to us!", "about to get here!", "it's coming close!" ]
   },
   {
     "type": "snippet",
@@ -33,7 +33,7 @@
     "type": "snippet",
     "category": "<medium_distance>",
     "//": "A threat is nearby: '[It's a zombie east,] quite a bit away.'",
-    "text": [ ".", ".", ".", "" ]
+    "text": [ "pretty far away", "", "", "" ]
   },
   {
     "type": "snippet",
