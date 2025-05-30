@@ -198,6 +198,6 @@
   {
     "type": "snippet",
     "category": "<granny_name_g>",
-    "text": [ { "text": { "ctxt": "<granny_name_g>", "str": "child" } }, "my child", "dear", "my dear", "friend", "survivor" ]
+    "text": [ { "text": { "ctxt": "<granny_name_g>", "str": "child" } }, "sweetheart", "dear", "honey", "sweetie" ]
   }
 ]
