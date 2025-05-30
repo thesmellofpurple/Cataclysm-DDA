@@ -27,7 +27,7 @@
     "type": "snippet",
     "category": "<close_distance>",
     "//": "A threat is close: '[It's a zombie east,] closer than I'd like.'",
-    "text": [ "", "", "", "pretty close", "closer than I'd like." ]
+    "text": [ "", "", "getting close", "pretty close", "closer than I'd like." ]
   },
   {
     "type": "snippet",
@@ -44,8 +44,7 @@
       "way, way over there",
       "too far to see very well",
       "very, very far away",
-      "really far away",
-      ""
+      "really far away"
     ]
   },
   {
