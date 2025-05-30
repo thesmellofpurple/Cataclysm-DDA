@@ -27,7 +27,7 @@
     "type": "snippet",
     "category": "<close_distance>",
     "//": "A threat is close: '[It's a zombie east,] not too far from us.'",
-    "text": [ "not too far from us", "right over there", "", "", "closer than I'd like." ]
+    "text": [ "not too far from us", "right over there", "", "pretty close", "closer than I'd like." ]
   },
   {
     "type": "snippet",
@@ -149,10 +149,8 @@
     "type": "snippet",
     "category": "<zombie>",
     "text": [
-      "moving corpse",
       "undead",
       "walking corpse",
-      "infected corpse",
       "zombie"
     ]
   },
@@ -165,34 +163,20 @@
     "type": "snippet",
     "category": "<the_cataclysm>",
     "text": [
-      "",
       "the anarchy",
       "the apocalypse",
-      "",
       "the cataclysm",
       "the catastrophe",
       "the chaos",
       "the craziness",
       "the collapse",
       "the disaster",
-      "",
       "the end",
-      "",
-      "",
       "the end of the world",
-      "",
-      "",
       "the insanity",
       "the massacre",
       "the terror",
-      "the tragedy",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "the tragedy"
     ]
   },
   {
