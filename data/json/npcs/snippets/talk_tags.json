@@ -20,25 +20,25 @@
   {
     "type": "snippet",
     "category": "<danger_close_distance>",
-    "//": "A threat is very close: '[It's a zombie east,] right on top of us!'",
-    "text": [ "", "right here!", "right next to us!", "about to get here!", "it's coming close!" ]
+    "//": "A threat is very close: '[It's a zombie east,] right next to us!'",
+    "text": [ "", "right there!", "right next to us!", "about to get us!", "" ]
   },
   {
     "type": "snippet",
     "category": "<close_distance>",
-    "//": "A threat is close: '[It's a zombie east,] just a bit away.'",
-    "text": [ "", "", "", "", "closer than I'd like." ]
+    "//": "A threat is close: '[It's a zombie east,] not too far from us.'",
+    "text": [ "not too far from us", "right over there", "", "", "closer than I'd like." ]
   },
   {
     "type": "snippet",
     "category": "<medium_distance>",
-    "//": "A threat is nearby: '[It's a zombie east,] quite a bit away.'",
+    "//": "A threat is nearby: '[It's a zombie east,] pretty far away.'",
     "text": [ "pretty far away", "not that close", "", "" ]
   },
   {
     "type": "snippet",
     "category": "<far_distance>",
-    "//": "A threat is on the horizon: '[It's a zombie east,] at a long distance.'",
+    "//": "A threat is on the horizon: '[It's a zombie east,] way out in the distance.'",
     "text": [
       "way out in the distance",
       "way, way over there",
@@ -127,7 +127,7 @@
   },
   {
     "type": "snippet",
-    "category": "<freaking>",
+    "category": "<shitty>",
     "//": "Adjective curse words used to emphasize unpleasant events: '[These] fucking [zombies].' or '[This] dumb [asshole].'",
     "text": [
       "shitty",
@@ -150,21 +150,16 @@
     "category": "<zombie>",
     "text": [
       "moving corpse",
-      "evil thing",
-      "moving body",
       "undead",
-      "infected corpse",
       "walking corpse",
-      "infected corpse"
-      { "text": { "ctxt": "<zombie>", "str": "Z" } },
-      "zed",
+      "infected corpse",
       "zombie"
     ]
   },
   {
     "type": "snippet",
     "category": "<zombies>",
-    "text": [ "goo-pukers", "living dead", "shamblers", "undead", "walkers", "zeds", "zombies", "Z's" ]
+    "text": [ "infected corpses", "living dead", "moving corpses", "undead", "walking corpses", "zombies", ]
   },
   {
     "type": "snippet",
