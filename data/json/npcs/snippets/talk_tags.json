@@ -33,7 +33,7 @@
     "type": "snippet",
     "category": "<medium_distance>",
     "//": "A threat is nearby: '[It's a zombie east,]'",
-    "text": [ "let's keep our distance", "", "", "" ]
+    "text": [ "let's keep our distance", "we should go the other way", "", "" ]
   },
   {
     "type": "snippet",
